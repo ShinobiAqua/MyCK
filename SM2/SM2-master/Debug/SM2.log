@@ -1,0 +1,26 @@
+﻿  main.c
+D:\ffffffff\SM2-master\SM2-master\main.c(69,11): warning C4047: “函数”:“flash”与“big *”的间接级别不同
+D:\ffffffff\SM2-master\SM2-master\main.c(69,11): warning C4024: “copy”: 形参和实参 2 的类型不同
+D:\ffffffff\SM2-master\SM2-master\main.c(88,11): warning C4047: “函数”:“flash”与“big *”的间接级别不同
+D:\ffffffff\SM2-master\SM2-master\main.c(88,11): warning C4024: “copy”: 形参和实参 2 的类型不同
+D:\ffffffff\SM2-master\SM2-master\main.c(89,11): warning C4047: “函数”:“flash”与“big *”的间接级别不同
+D:\ffffffff\SM2-master\SM2-master\main.c(89,11): warning C4024: “copy”: 形参和实参 2 的类型不同
+D:\ffffffff\SM2-master\SM2-master\main.c(110,11): warning C4047: “函数”:“flash”与“big *”的间接级别不同
+D:\ffffffff\SM2-master\SM2-master\main.c(110,11): warning C4024: “copy”: 形参和实参 2 的类型不同
+D:\ffffffff\SM2-master\SM2-master\main.c(111,11): warning C4047: “函数”:“flash”与“big *”的间接级别不同
+D:\ffffffff\SM2-master\SM2-master\main.c(111,11): warning C4024: “copy”: 形参和实参 2 的类型不同
+D:\ffffffff\SM2-master\SM2-master\main.c(120,27): warning C4013: “HexCharsToBig”未定义；假设外部返回 int
+D:\ffffffff\SM2-master\SM2-master\main.c(120,30): warning C4047: “函数”:“big”与“int”的间接级别不同
+D:\ffffffff\SM2-master\SM2-master\main.c(120,30): warning C4024: “ecurve_init”: 形参和实参 1 的类型不同
+D:\ffffffff\SM2-master\SM2-master\main.c(120,48): warning C4047: “函数”:“big”与“int”的间接级别不同
+D:\ffffffff\SM2-master\SM2-master\main.c(120,48): warning C4024: “ecurve_init”: 形参和实参 2 的类型不同
+D:\ffffffff\SM2-master\SM2-master\main.c(120,66): warning C4047: “函数”:“big”与“int”的间接级别不同
+D:\ffffffff\SM2-master\SM2-master\main.c(120,66): warning C4024: “ecurve_init”: 形参和实参 3 的类型不同
+D:\ffffffff\SM2-master\SM2-master\main.c(151,10): warning C4047: “函数”:“big *”与“big”的间接级别不同
+D:\ffffffff\SM2-master\SM2-master\main.c(151,10): warning C4024: “set256”: 形参和实参 1 的类型不同
+D:\ffffffff\SM2-master\SM2-master\main.c(151,13): warning C4047: “函数”:“big *”与“big”的间接级别不同
+D:\ffffffff\SM2-master\SM2-master\main.c(151,13): warning C4024: “set256”: 形参和实参 2 的类型不同
+D:\ffffffff\SM2-master\SM2-master\main.c(157,18): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\ffffffff\SM2-master\SM2-master\main.c(187,18): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\ffffffff\SM2-master\SM2-master\main.c(211,13): warning C4133: “函数”: 从“miracl *”到“big”的类型不兼容
+  SM2.vcxproj -> D:\ffffffff\SM2-master\SM2-master\Debug\SM2.exe

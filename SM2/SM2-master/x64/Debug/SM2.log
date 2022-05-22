@@ -1,0 +1,24 @@
+﻿  MyString.c
+D:\ffffffff\SM2-master\SM2-master\MyString.c(9,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Sm2Util.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+D:\ffffffff\SM2-master\SM2-master\Sm2Util.c(23,22): warning C4013: “time”未定义；假设外部返回 int
+D:\ffffffff\SM2-master\SM2-master\Sm2Util.c(124,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 参见“fopen”的声明
+D:\ffffffff\SM2-master\SM2-master\Sm2Util.c(190,32): warning C4013: “strlen”未定义；假设外部返回 int
+D:\ffffffff\SM2-master\SM2-master\Sm2Util.c(191,8): warning C4013: “strcat”未定义；假设外部返回 int
+D:\ffffffff\SM2-master\SM2-master\Sm2Util.c(281,22): warning C4013: “SM3”未定义；假设外部返回 int
+D:\ffffffff\SM2-master\SM2-master\Sm2Util.c(308,14): warning C4047: “函数”:“flash”与“int”的间接级别不同
+D:\ffffffff\SM2-master\SM2-master\Sm2Util.c(308,14): warning C4024: “copy”: 形参和实参 1 的类型不同
+D:\ffffffff\SM2-master\SM2-master\Sm2Util.c(281,1): warning C4047: “初始化”:“big”与“int”的间接级别不同
+D:\ffffffff\SM2-master\SM2-master\Sm2Util.c(297,1): warning C4047: “初始化”:“big”与“int”的间接级别不同
+D:\ffffffff\SM2-master\SM2-master\Sm2Util.c(350,22): warning C4013: “SM3ByHexString”未定义；假设外部返回 int
+D:\ffffffff\SM2-master\SM2-master\Sm2Util.c(350,27): warning C4047: “=”:“char *”与“int”的间接级别不同
+D:\ffffffff\SM2-master\SM2-master\Sm2Util.c(335,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+D:\ffffffff\SM2-master\SM2-master\Sm2Util.c(339,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+D:\ffffffff\SM2-master\SM2-master\Sm2Util.c(343,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 参见“sprintf”的声明
+  正在生成代码...
+D:\ffffffff\SM2-master\SM2-master\Sm2Util.c(397,12): warning C4013: “strcmp”未定义；假设外部返回 int
