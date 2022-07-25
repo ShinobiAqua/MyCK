@@ -2,6 +2,9 @@
 小组成员 戴泽雨 ShinobiAqua
 project1_ver2.0为项目工程文件
 
+请无视SM2/SM2-master，此为早期版本
+2222
+
 ### 项目名称
 
 SM2的PGP加解密实现，SM2标量乘法的双基链方法实现
