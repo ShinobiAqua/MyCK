@@ -1,5 +1,6 @@
 # MyCK
-小组成员 戴泽雨 ShinobiAqua
+小组成员 戴泽雨 github:ShinobiAqua
+
 project1_ver2.0为项目工程文件
 
 请无视SM2/SM2-master，此为早期版本
